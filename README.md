@@ -1,6 +1,6 @@
 # WSG-gigas-stress-primed
 
-![]
+![https://github.com/mattgeorgephd/WSG-gigas-stress-primed/blob/a80b79eff6bfe4952f6141436833a27ab7d6acb9/shellfish_DALLE_art_banner.png?raw=true]
 
 # Pertinent documents
 ## General
